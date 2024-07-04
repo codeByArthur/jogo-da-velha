@@ -1,0 +1,40 @@
+C:\Users\Alunos\source\repos\JogoDaVelha\JogoDaVelha\bin\Debug\JogoDaVelha.exe.config
+C:\Users\Alunos\source\repos\JogoDaVelha\JogoDaVelha\bin\Debug\JogoDaVelha.exe
+C:\Users\Alunos\source\repos\JogoDaVelha\JogoDaVelha\bin\Debug\JogoDaVelha.pdb
+C:\Users\Alunos\source\repos\JogoDaVelha\JogoDaVelha\obj\Debug\JogoDaVelha.csprojAssemblyReference.cache
+C:\Users\Alunos\source\repos\JogoDaVelha\JogoDaVelha\obj\Debug\JogoDaVelha.FrmJogoDaVelha.resources
+C:\Users\Alunos\source\repos\JogoDaVelha\JogoDaVelha\obj\Debug\JogoDaVelha.Properties.Resources.resources
+C:\Users\Alunos\source\repos\JogoDaVelha\JogoDaVelha\obj\Debug\JogoDaVelha.csproj.GenerateResource.cache
+C:\Users\Alunos\source\repos\JogoDaVelha\JogoDaVelha\obj\Debug\JogoDaVelha.csproj.CoreCompileInputs.cache
+C:\Users\Alunos\source\repos\JogoDaVelha\JogoDaVelha\obj\Debug\JogoDaVelha.exe
+C:\Users\Alunos\source\repos\JogoDaVelha\JogoDaVelha\obj\Debug\JogoDaVelha.pdb
+D:\ETEC - CENTRO PAULA SOUZA\JogoDaVelha\JogoDaVelha\bin\Debug\JogoDaVelha.exe.config
+D:\ETEC - CENTRO PAULA SOUZA\JogoDaVelha\JogoDaVelha\bin\Debug\JogoDaVelha.exe
+D:\ETEC - CENTRO PAULA SOUZA\JogoDaVelha\JogoDaVelha\bin\Debug\JogoDaVelha.pdb
+D:\ETEC - CENTRO PAULA SOUZA\JogoDaVelha\JogoDaVelha\obj\Debug\JogoDaVelha.csproj.AssemblyReference.cache
+D:\ETEC - CENTRO PAULA SOUZA\JogoDaVelha\JogoDaVelha\obj\Debug\JogoDaVelha.FrmJogoDaVelha.resources
+D:\ETEC - CENTRO PAULA SOUZA\JogoDaVelha\JogoDaVelha\obj\Debug\JogoDaVelha.Properties.Resources.resources
+D:\ETEC - CENTRO PAULA SOUZA\JogoDaVelha\JogoDaVelha\obj\Debug\JogoDaVelha.csproj.GenerateResource.cache
+D:\ETEC - CENTRO PAULA SOUZA\JogoDaVelha\JogoDaVelha\obj\Debug\JogoDaVelha.csproj.CoreCompileInputs.cache
+D:\ETEC - CENTRO PAULA SOUZA\JogoDaVelha\JogoDaVelha\obj\Debug\JogoDaVelha.exe
+D:\ETEC - CENTRO PAULA SOUZA\JogoDaVelha\JogoDaVelha\obj\Debug\JogoDaVelha.pdb
+E:\ETEC - CENTRO PAULA SOUZA\JogoDaVelha\JogoDaVelha\bin\Debug\JogoDaVelha.exe.config
+E:\ETEC - CENTRO PAULA SOUZA\JogoDaVelha\JogoDaVelha\bin\Debug\JogoDaVelha.exe
+E:\ETEC - CENTRO PAULA SOUZA\JogoDaVelha\JogoDaVelha\bin\Debug\JogoDaVelha.pdb
+E:\ETEC - CENTRO PAULA SOUZA\JogoDaVelha\JogoDaVelha\obj\Debug\JogoDaVelha.csproj.AssemblyReference.cache
+E:\ETEC - CENTRO PAULA SOUZA\JogoDaVelha\JogoDaVelha\obj\Debug\JogoDaVelha.FrmJogoDaVelha.resources
+E:\ETEC - CENTRO PAULA SOUZA\JogoDaVelha\JogoDaVelha\obj\Debug\JogoDaVelha.Properties.Resources.resources
+E:\ETEC - CENTRO PAULA SOUZA\JogoDaVelha\JogoDaVelha\obj\Debug\JogoDaVelha.csproj.GenerateResource.cache
+E:\ETEC - CENTRO PAULA SOUZA\JogoDaVelha\JogoDaVelha\obj\Debug\JogoDaVelha.csproj.CoreCompileInputs.cache
+E:\ETEC - CENTRO PAULA SOUZA\JogoDaVelha\JogoDaVelha\obj\Debug\JogoDaVelha.exe
+E:\ETEC - CENTRO PAULA SOUZA\JogoDaVelha\JogoDaVelha\obj\Debug\JogoDaVelha.pdb
+D:\PROJETOS\JOGO DA VELHA - PROJETO EM C#\JogoDaVelha\bin\Debug\JogoDaVelha.exe.config
+D:\PROJETOS\JOGO DA VELHA - PROJETO EM C#\JogoDaVelha\bin\Debug\JogoDaVelha.exe
+D:\PROJETOS\JOGO DA VELHA - PROJETO EM C#\JogoDaVelha\bin\Debug\JogoDaVelha.pdb
+D:\PROJETOS\JOGO DA VELHA - PROJETO EM C#\JogoDaVelha\obj\Debug\JogoDaVelha.csproj.AssemblyReference.cache
+D:\PROJETOS\JOGO DA VELHA - PROJETO EM C#\JogoDaVelha\obj\Debug\JogoDaVelha.FrmJogoDaVelha.resources
+D:\PROJETOS\JOGO DA VELHA - PROJETO EM C#\JogoDaVelha\obj\Debug\JogoDaVelha.Properties.Resources.resources
+D:\PROJETOS\JOGO DA VELHA - PROJETO EM C#\JogoDaVelha\obj\Debug\JogoDaVelha.csproj.GenerateResource.cache
+D:\PROJETOS\JOGO DA VELHA - PROJETO EM C#\JogoDaVelha\obj\Debug\JogoDaVelha.csproj.CoreCompileInputs.cache
+D:\PROJETOS\JOGO DA VELHA - PROJETO EM C#\JogoDaVelha\obj\Debug\JogoDaVelha.exe
+D:\PROJETOS\JOGO DA VELHA - PROJETO EM C#\JogoDaVelha\obj\Debug\JogoDaVelha.pdb
