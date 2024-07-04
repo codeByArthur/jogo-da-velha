@@ -17,7 +17,7 @@ programa
 			   "\n", 
 		  	   "\n       2   ", p4, p5, p6, 
 		  	   "\n", 
-		        "\n       3   ", p7, p8, p9)
+		       "\n       3   ", p7, p8, p9)
 		
 		escreva("\n\n")
 	}
@@ -30,12 +30,11 @@ programa
 		faca
 		{
 			cadeia v[3][3] = {{"  -  ", "  -  ", "  -  "}, 
-						   	    {"  -  ", "  -  ", "  -  "},
-					              {"  -  ", "  -  ", "  -  "}}
+						      {"  -  ", "  -  ", "  -  "},
+					          {"  -  ", "  -  ", "  -  "}}
 
 			logico fimpartida = falso
 			inteiro jogada = 1, c, l
-			
 			
 			p1 = v[0][0] p2 = v[0][1] p3 = v[0][2]
 			p4 = v[1][0] p5 = v[1][1] p6 = v[1][2] 
