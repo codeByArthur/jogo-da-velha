@@ -38,3 +38,13 @@ D:\PROJETOS\JOGO DA VELHA - PROJETO EM C#\JogoDaVelha\obj\Debug\JogoDaVelha.cspr
 D:\PROJETOS\JOGO DA VELHA - PROJETO EM C#\JogoDaVelha\obj\Debug\JogoDaVelha.csproj.CoreCompileInputs.cache
 D:\PROJETOS\JOGO DA VELHA - PROJETO EM C#\JogoDaVelha\obj\Debug\JogoDaVelha.exe
 D:\PROJETOS\JOGO DA VELHA - PROJETO EM C#\JogoDaVelha\obj\Debug\JogoDaVelha.pdb
+C:\Users\THUZÃO\Documents\MeusProjetos\jogo-da-velha\JOGO DA VELHA - PROJETO EM C#\JogoDaVelha\bin\Debug\JogoDaVelha.exe.config
+C:\Users\THUZÃO\Documents\MeusProjetos\jogo-da-velha\JOGO DA VELHA - PROJETO EM C#\JogoDaVelha\bin\Debug\JogoDaVelha.exe
+C:\Users\THUZÃO\Documents\MeusProjetos\jogo-da-velha\JOGO DA VELHA - PROJETO EM C#\JogoDaVelha\bin\Debug\JogoDaVelha.pdb
+C:\Users\THUZÃO\Documents\MeusProjetos\jogo-da-velha\JOGO DA VELHA - PROJETO EM C#\JogoDaVelha\obj\Debug\JogoDaVelha.csproj.AssemblyReference.cache
+C:\Users\THUZÃO\Documents\MeusProjetos\jogo-da-velha\JOGO DA VELHA - PROJETO EM C#\JogoDaVelha\obj\Debug\JogoDaVelha.FrmJogoDaVelha.resources
+C:\Users\THUZÃO\Documents\MeusProjetos\jogo-da-velha\JOGO DA VELHA - PROJETO EM C#\JogoDaVelha\obj\Debug\JogoDaVelha.Properties.Resources.resources
+C:\Users\THUZÃO\Documents\MeusProjetos\jogo-da-velha\JOGO DA VELHA - PROJETO EM C#\JogoDaVelha\obj\Debug\JogoDaVelha.csproj.GenerateResource.cache
+C:\Users\THUZÃO\Documents\MeusProjetos\jogo-da-velha\JOGO DA VELHA - PROJETO EM C#\JogoDaVelha\obj\Debug\JogoDaVelha.csproj.CoreCompileInputs.cache
+C:\Users\THUZÃO\Documents\MeusProjetos\jogo-da-velha\JOGO DA VELHA - PROJETO EM C#\JogoDaVelha\obj\Debug\JogoDaVelha.exe
+C:\Users\THUZÃO\Documents\MeusProjetos\jogo-da-velha\JOGO DA VELHA - PROJETO EM C#\JogoDaVelha\obj\Debug\JogoDaVelha.pdb

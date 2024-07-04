@@ -601,6 +601,7 @@ namespace JogoDaVelha
             BackColor = Color.White;
             lbTitle.ForeColor = Color.Black;
             lbTemas.ForeColor = Color.Black;
+            lbByArthur.ForeColor = Color.Black;
             rbBranco.ForeColor = Color.Black;
             rbPreto.ForeColor = Color.Black;
             pbPrincipal.BackColor = Color.Black;
@@ -739,6 +740,7 @@ namespace JogoDaVelha
             BackColor = Color.Black;
             lbTitle.ForeColor = Color.White;
             lbTemas.ForeColor = Color.White;
+            lbByArthur.ForeColor = Color.White;
             rbBranco.ForeColor = Color.White;
             rbPreto.ForeColor = Color.White;
             pbPrincipal.BackColor = Color.White;

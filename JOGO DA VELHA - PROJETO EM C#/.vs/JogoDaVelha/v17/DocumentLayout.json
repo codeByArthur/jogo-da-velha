@@ -1,14 +1,14 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\PROJETOS\\JOGO DA VELHA - PROJETO EM C#\\",
+  "WorkspaceRootPath": "C:\\Users\\THUZ\u00C3O\\Documents\\MeusProjetos\\jogo-da-velha\\JOGO DA VELHA - PROJETO EM C#\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{D10C9837-EC8A-405B-A763-972D6BF1AD9C}|JogoDaVelha\\JogoDaVelha.csproj|d:\\projetos\\jogo da velha - projeto em c#\\jogodavelha\\frmjogodavelha.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{D10C9837-EC8A-405B-A763-972D6BF1AD9C}|JogoDaVelha\\JogoDaVelha.csproj|solutionrelative:jogodavelha\\frmjogodavelha.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{D10C9837-EC8A-405B-A763-972D6BF1AD9C}|JogoDaVelha\\JogoDaVelha.csproj|C:\\Users\\THUZ\u00C3O\\Documents\\MeusProjetos\\jogo-da-velha\\JOGO DA VELHA - PROJETO EM C#\\jogodavelha\\frmjogodavelha.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D10C9837-EC8A-405B-A763-972D6BF1AD9C}|JogoDaVelha\\JogoDaVelha.csproj|solutionrelative:jogodavelha\\frmjogodavelha.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D10C9837-EC8A-405B-A763-972D6BF1AD9C}|JogoDaVelha\\JogoDaVelha.csproj|D:\\PROJETOS\\JOGO DA VELHA - PROJETO EM C#\\jogodavelha\\frmjogodavelha.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D10C9837-EC8A-405B-A763-972D6BF1AD9C}|JogoDaVelha\\JogoDaVelha.csproj|solutionrelative:jogodavelha\\frmjogodavelha.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D10C9837-EC8A-405B-A763-972D6BF1AD9C}|JogoDaVelha\\JogoDaVelha.csproj|c:\\users\\thuz\u00E3o\\documents\\meusprojetos\\jogo-da-velha\\jogo da velha - projeto em c#\\jogodavelha\\frmjogodavelha.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D10C9837-EC8A-405B-A763-972D6BF1AD9C}|JogoDaVelha\\JogoDaVelha.csproj|solutionrelative:jogodavelha\\frmjogodavelha.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,7 +18,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
@@ -30,11 +30,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "FrmJogoDaVelha.cs [Design]",
-              "DocumentMoniker": "D:\\PROJETOS\\JOGO DA VELHA - PROJETO EM C#\\JogoDaVelha\\FrmJogoDaVelha.cs",
+              "DocumentMoniker": "C:\\Users\\THUZ\u00C3O\\Documents\\MeusProjetos\\jogo-da-velha\\JOGO DA VELHA - PROJETO EM C#\\JogoDaVelha\\FrmJogoDaVelha.cs",
               "RelativeDocumentMoniker": "JogoDaVelha\\FrmJogoDaVelha.cs",
-              "ToolTip": "D:\\PROJETOS\\JOGO DA VELHA - PROJETO EM C#\\JogoDaVelha\\FrmJogoDaVelha.cs [Design]",
+              "ToolTip": "C:\\Users\\THUZ\u00C3O\\Documents\\MeusProjetos\\jogo-da-velha\\JOGO DA VELHA - PROJETO EM C#\\JogoDaVelha\\FrmJogoDaVelha.cs [Design]",
               "RelativeToolTip": "JogoDaVelha\\FrmJogoDaVelha.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-03-21T19:35:14.106Z",
@@ -42,15 +42,16 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "FrmJogoDaVelha.cs",
-              "DocumentMoniker": "D:\\PROJETOS\\JOGO DA VELHA - PROJETO EM C#\\JogoDaVelha\\FrmJogoDaVelha.cs",
+              "DocumentMoniker": "C:\\Users\\THUZ\u00C3O\\Documents\\MeusProjetos\\jogo-da-velha\\JOGO DA VELHA - PROJETO EM C#\\JogoDaVelha\\FrmJogoDaVelha.cs",
               "RelativeDocumentMoniker": "JogoDaVelha\\FrmJogoDaVelha.cs",
-              "ToolTip": "D:\\PROJETOS\\JOGO DA VELHA - PROJETO EM C#\\JogoDaVelha\\FrmJogoDaVelha.cs",
+              "ToolTip": "C:\\Users\\THUZ\u00C3O\\Documents\\MeusProjetos\\jogo-da-velha\\JOGO DA VELHA - PROJETO EM C#\\JogoDaVelha\\FrmJogoDaVelha.cs",
               "RelativeToolTip": "JogoDaVelha\\FrmJogoDaVelha.cs",
-              "ViewState": "AQIAABUAAAAAAAAAAAAQwCEAAAAkAAAA",
+              "ViewState": "AQIAAE0CAAAAAAAAAADwv1ACAAAdAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-21T19:35:14.639Z"
+              "WhenOpened": "2024-03-21T19:35:14.639Z",
+              "EditorCaption": ""
             }
           ]
         },
@@ -60,11 +61,17 @@
           "Children": [
             {
               "$type": "Bookmark",
-              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
-            },
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 263,
+          "SelectedChildIndex": -1,
+          "Children": [
             {
               "$type": "Bookmark",
-              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
             }
           ]
         }
