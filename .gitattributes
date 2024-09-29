@@ -1,2 +1,14 @@
 # Auto detect text files and perform LF normalization
 * text=auto
+
+# Identificar C#
+*.cs linguist-language=C#
+
+# Identificar Python
+*.py linguist-language=Python
+
+# Identificar Portugol (se o GitHub não reconhecer, ele pode ser tratado como outra linguagem ou ignorado)
+*.por linguist-language=Portugol
+
+# Desconsiderar todas as outras extensões
+* linguist-detectable=false
