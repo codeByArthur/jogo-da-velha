@@ -608,24 +608,6 @@ namespace JogoDaVelha
             btnReiniciar.BackColor = Color.White;
             btnReiniciar.ForeColor = Color.Black;
 
-            /*for (int l=0; l<=2; l++)
-            {
-                for (int c=0; c<=2; c++)
-                {
-                    if (P[l, c] != 0)
-                    {
-                        if (P[l, c] == 1)
-                        {
-                            pbP11.Image = imagex;
-                        }
-                        else
-                        {
-                            pbP11.Image = imageo;
-                        }
-                    }
-                }
-            }*/
-
             if (P[0, 0] != 0)
             {
                 if (P[0, 0] == 1)
@@ -746,24 +728,6 @@ namespace JogoDaVelha
             pbPrincipal.BackColor = Color.White;
             btnReiniciar.BackColor = Color.Black;
             btnReiniciar.ForeColor = Color.White;
-
-            /*for (int l = 0; l <= 2; l++)
-            {
-                for (int c = 0; c <= 2; c++)
-                {
-                    if (P[l, c] != 0)
-                    {
-                        if (P[l, c] == 1)
-                        {
-                            pbP11.Image = imagex;
-                        }
-                        else
-                        {
-                            pbP11.Image = imageo;
-                        }
-                    }
-                }
-            }*/
 
             if (P[0, 0] != 0)
             {
