@@ -259,9 +259,9 @@
             this.lbByArthur.Font = new System.Drawing.Font("Microsoft Sans Serif", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.lbByArthur.Location = new System.Drawing.Point(12, 642);
             this.lbByArthur.Name = "lbByArthur";
-            this.lbByArthur.Size = new System.Drawing.Size(248, 30);
+            this.lbByArthur.Size = new System.Drawing.Size(261, 30);
             this.lbByArthur.TabIndex = 15;
-            this.lbByArthur.Text = "By Arthur Araujo da Silva\r\nGitHub: https://github.com/ArthurAS07\r\n";
+            this.lbByArthur.Text = "By Arthur Araujo da Silva\r\nGitHub: https://github.com/codeByArthur\r\n";
             // 
             // FrmJogoDaVelha
             // 
