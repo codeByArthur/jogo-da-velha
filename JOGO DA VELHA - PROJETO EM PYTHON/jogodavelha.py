@@ -55,7 +55,7 @@ resposta = "s"
 vitsJogador1 = 0
 vitsJogador2 = 0
 
-# Laço de repetição que controla se os jogadores querem ou não continuar jogando
+# Laço de repetição que controla se os jogadores querem ou não continuar jogandoo
 while resposta == "s" or resposta == "S":
     # Limpando terminal
     os.system('cls')
